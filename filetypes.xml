@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="actions" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierc" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping pattern="models" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>

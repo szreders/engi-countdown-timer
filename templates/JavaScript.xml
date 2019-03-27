@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="np" value=" public ${NAME}(): void {&#10; this.notificationProvider.publish(NotificationProviderTypeEnum.${NAME}, this);&#10; }" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="console.log('')" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
