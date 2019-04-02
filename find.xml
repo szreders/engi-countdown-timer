@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="feature/ITAEC-5921/release/6.2 ITAEC-5921 Refaktoring - przepisanie modali do Angulara 7. HTML refactor." />
+    <option name="defaultScopeName" value="feature/ITAEC-5921/release/6.2 ITAEC-5921 Refaktoring - przepisanie modali do Angulara 7. HTML refactor." />
+    <option name="SEARCH_SCOPE" value="feature/ITAEC-5921/release/6.2 ITAEC-5921 Refaktoring - przepisanie modali do Angulara 7. HTML refactor." />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
