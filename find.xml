@@ -3,6 +3,7 @@
     <option name="customScope" value="feature/ITAEC-5921/release/6.2 ITAEC-5921 Refaktoring - przepisanie modali do Angulara 7. HTML refactor." />
     <option name="defaultScopeName" value="feature/ITAEC-5921/release/6.2 ITAEC-5921 Refaktoring - przepisanie modali do Angulara 7. HTML refactor." />
     <option name="SEARCH_SCOPE" value="feature/ITAEC-5921/release/6.2 ITAEC-5921 Refaktoring - przepisanie modali do Angulara 7. HTML refactor." />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -21,7 +22,7 @@
     <mask>!*.scss</mask>
     <mask>*.js,*.ts,!all-app.js,!ng-app.js,!bootstrap-ng2.js,!angular*.js,!less*.jsjScri</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.js,*.ts,!all-app.js,!ng-app.js,!bootstrap-ng2.js,!angular*.js,!less*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
