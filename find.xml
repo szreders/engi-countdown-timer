@@ -21,7 +21,7 @@
     <mask>!*.scss</mask>
     <mask>*.js,*.ts,!all-app.js,!ng-app.js,!bootstrap-ng2.js,!angular*.js,!less*.jsjScri</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.js,*.ts,!all-app.js,!ng-app.js,!bootstrap-ng2.js,!angular*.js,!less*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
