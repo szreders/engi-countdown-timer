@@ -17,11 +17,11 @@
     <mask>*.js, *.ts *!all-app.js</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.java</mask>
-    <mask>*.tag</mask>
     <mask>!*.scss</mask>
     <mask>*.js,*.ts,!all-app.js,!ng-app.js,!bootstrap-ng2.js,!angular*.js,!less*.jsjScri</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.js,*.ts,!all-app.js,!ng-app.js,!bootstrap-ng2.js,!angular*.js,!less*.js</mask>
+    <mask>*.tag</mask>
   </component>
 </application>
