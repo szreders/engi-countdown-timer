@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -14,7 +15,6 @@
     <mask>*</mask>
     <mask>*.js, *.ts *!all-app.js</mask>
     <mask>*.js, *.ts</mask>
-    <mask>*.java</mask>
     <mask>!*.scss</mask>
     <mask>*.js,*.ts,!all-app.js,!ng-app.js,!bootstrap-ng2.js,!angular*.js,!less*.jsjScri</mask>
     <mask>*.tag</mask>
@@ -23,5 +23,6 @@
     <mask>*.js,</mask>
     <mask>*.js,*.ts,!all-app.js,!ng-app.js,!bootstrap-ng2.js,!angular*.js,!less*.js</mask>
     <mask>*.jsp</mask>
+    <mask>*.java</mask>
   </component>
 </application>
